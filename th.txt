@@ -1,0 +1,36 @@
+Programming language: 
+diff bw c++ and python
+
+c++ is a compiled language
+python is an interpreted language
+
+python is dynamically typed --> data types
+c++ is statically typed --> data types
+
+//.py --> python 
+//.py  -->
+#defination operator
+#operators are special symnols that perform operations on variables and values
+'''
+
+arithmatic operators +,-,*,/,%,//,** //floor division, **exponentiation
+logical operators and,or,not
+relational operators ==,!=,>,<,>=,<=
+bitwise operators &,|,^,~,<<,>>
+assignment operators =,+=,-=,*=,/=,%=,//=,**=
+ternary operators ?:
+membership operators in,not in
+identity operators is,is not
+
+'''
+
+descion making statements
+
+if else
+elif
+loops
+
+if condition:
+    statement
+else:
+    statement
