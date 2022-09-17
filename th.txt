@@ -34,3 +34,12 @@ if condition:
     statement
 else:
     statement
+
+Toogle Case -->JaB tAk He Jaan
+string palindrome --> naman
+remove duplicate char char
+find largest word
+find smallest word
+
+
+
