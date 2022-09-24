@@ -42,7 +42,7 @@ find largest word
 find smallest word
 
 3 list
-class 1
+std 1
 class 2
 class 3
 school[]

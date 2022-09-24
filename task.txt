@@ -1,0 +1,7 @@
+3 users
+id
+name
+email
+password
+age
+salary
