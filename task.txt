@@ -5,3 +5,10 @@ email
 password
 age
 salary
+
+
+
+press 1 for find max element from list
+press 2 for reverse string
+press 3 for update element on,list
+press 4 for exit
