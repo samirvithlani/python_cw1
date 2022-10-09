@@ -5,6 +5,17 @@ email
 password
 age
 salary
+-------------------
+find longest word from list using lambda function
+find repetative words from list using lambda function
+convert list of words to upper case using lambda function
+convert list of words to lower case using lambda function
+find words which starts with 'a' from list using lambda function
+find words which ends with 'a' from list using lambda function
+find words which starts with 'a' and ends with 'a' from list using lambda function
+
+
+
 
 
 
