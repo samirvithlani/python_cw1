@@ -1,5 +1,3 @@
-from logging import Filter
-
 
 def double(x):
     return x *2
