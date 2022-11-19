@@ -47,6 +47,6 @@ class 2
 class 3
 school[]
 
-
+index error and overflow error
 
 

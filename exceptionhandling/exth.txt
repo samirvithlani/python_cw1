@@ -1,0 +1,11 @@
+//error
+    :- error are the errors that are not handled by the program
+       reason for error is wrong syntax
+        if error is there programme will terminate
+//exception:
+          exceptoin are raised when the programme is syntactically correct
+          but the programme is not able to execute the statement
+
+          10 / 0
+
+          try except block is used to handle the exception
