@@ -1,0 +1,7 @@
+counter is a container include in the collection module,
+
+container
+containers are the objects that holds the data
+
+class collection.Counter([object[iterable-map]])
+// list , tuple , set , dict , string
