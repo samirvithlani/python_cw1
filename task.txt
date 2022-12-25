@@ -16,6 +16,12 @@ find words which starts with 'a' and ends with 'a' from list using lambda functi
 
 
 
+company having data of sales for morning and evening shift of 7 days
+
+1)find highest sales days
+2) find is evening shift is better than morning shift
+
+
 
 
 
