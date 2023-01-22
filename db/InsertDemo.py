@@ -3,7 +3,7 @@ import mysql.connector
 def getallRecord():
     myDb = mysql.connector.connect(host="localhost",user="root",password ="root",database="cw1")
     if myDb:
-        sql = "select * from emp where id = %s"
+        sql = "select * from employee where id = %s"
         value = [8]
         cursor = myDb.cursor()
         cursor.execute(sql,value)

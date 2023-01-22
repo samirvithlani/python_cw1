@@ -1,0 +1,7 @@
+create table dept(did int primary key auto_increment,dname varchar(30));
+
+create table employee(eid int primary key auto_increment,ename varchar(30),did int,
+FOREIGN KEY(did) REFERENCES dept(did));
+
+
+insert into dept(dname)values('HR');
