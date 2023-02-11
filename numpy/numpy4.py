@@ -8,9 +8,11 @@ import numpy as np
 # onse = np.ones(5)
 # print(onse)
 
-
-# lin = np.linspace(1,10,5)
-# print(lin)
+#0
+# 100 - 1 / 4 = 24.75
+#
+lin = np.linspace(1,100,5)
+print("lin",lin)
 
 # idn = np.eye(4)
 # print(idn)
