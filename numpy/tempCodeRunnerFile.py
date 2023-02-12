@@ -1,2 +1,4 @@
-lin = np.linspace(1,10,5)
-print(lin)
+print(x)
+# print(y)
+# z = np.dot(x,y)
+# print(z)
